@@ -11,6 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 I didn't really learned here something that I didnt know earlier but it was a great reminger despite that I'm not sure any of my code. 
 ### Continued development
  In the future project I would like to use some microprocessor for CSS. 
+### Author
 - Frontend Mentor - [@Lidzl](https://www.frontendmentor.io/profile/Lidzl)
 - Twitter - [@jakub_mocek](https://twitter.com/jakub_mocek)
 
